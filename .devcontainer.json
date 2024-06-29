@@ -1,0 +1,12 @@
+{
+  "build": {
+    "dockerfile": "dockerfile.devcontainer"
+  },
+  "customizations": {
+    "vscode": {
+        "extensions": [
+           
+        ]
+    }
+  }
+}
